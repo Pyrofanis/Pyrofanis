@@ -7,7 +7,7 @@
  
  * Specialized in automation engineering
 
-:space_invader:*I am video-game developer hobbist*
+:space_invader:I am video-game developer hobbist
  
 * you can check my projects [:joystick:Pyrofanis](https://pyrofanis.itch.io/)
 
