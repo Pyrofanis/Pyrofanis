@@ -3,13 +3,13 @@
  
 **About Me**
 
-:electric_plug: i am an electrical engineer student [@UOA](https://www.uoa.gr/) 
+:electric_plug: i am an electrical engineer student [:school:UOA](https://www.uoa.gr/) 
  
  * Specialized in automation engineering
 
 :space_invader:*I am video-game developer hobbist*
  
-* you can check my projects [@Pyrofanis](https://pyrofanis.itch.io/)
+* you can check my projects [🕹Pyrofanis](https://pyrofanis.itch.io/)
 
 **Github Achievments**
 
