@@ -9,7 +9,7 @@
 
 :space_invader:*I am video-game developer hobbist*
  
-* you can check my projects [🕹Pyrofanis](https://pyrofanis.itch.io/)
+* you can check my projects [:joystick:Pyrofanis](https://pyrofanis.itch.io/)
 
 **Github Achievments**
 
