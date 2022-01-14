@@ -11,10 +11,6 @@
  
 * you can check my projects [@Pyrofanis](https://pyrofanis.itch.io/)
 
-**Github Stats**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pyrofanis&show_icons=true&theme=tokyonight&hide=contribs,prs,stars,issues)
-
 **Github Achievments**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pyrofanis&&theme=tokyonight&&title=Followers,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
