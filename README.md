@@ -6,6 +6,12 @@
 :electric_plug: i am an electrical engineer student [:school:UOA](https://www.uoa.gr/) 
  
  * Specialized in automation engineering
+ 
+    * Tia Portal
+ 
+    * Wincc
+ 
+    * Scada
 
 :space_invader:I am video-game developer hobbist
  
