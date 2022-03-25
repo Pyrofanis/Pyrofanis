@@ -1,4 +1,4 @@
-# Pyrofanis #
+# Pyrofani #
 <a align="center">
  
 **About Me**
