@@ -11,7 +11,7 @@
  
     * Wincc
  
-    * Scada
+    * HMI
 
 :space_invader:I am video-game developer hobbist
  
