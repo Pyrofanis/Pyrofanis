@@ -3,7 +3,7 @@
  
 **About Me**
 
-:electric_plug: i am an electrical engineer student [:school:UOA](https://www.uoa.gr/) 
+:electric_plug: i am an electrical engineer from [University of Athens](https://www.uoa.gr/) 
  
  * Specialized in automation engineering
  
