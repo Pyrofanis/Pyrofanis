@@ -1,8 +1,12 @@
 # Pyrofani #
 <a align="center">
  
-**About Me**
-
+**About Me** <br><br>
+🏫 I am curently enrolling at [University of West Attica](https://www.uniwa.gr/en/)<br>
+<ul>
+			<li>	🛰 Msc Unmanned Autonomous and Remote Controlled Systems</li>
+   <li>	🏭 Msc Industrial Automation</li>
+			</ul>
 :electric_plug: i am an electrical engineer from [University of Athens](https://www.uoa.gr/) 
  
  * Specialized in automation engineering
